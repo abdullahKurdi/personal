@@ -278,7 +278,7 @@
                                     <i class="icon_cog id-color-2"></i>
                                     <div class="text">
                                         <h3>Server Config</h3>
-                                        Create a server, manage it, connect it with the domain, and create an email server
+                                        manage and configure an ubuntu server to be ready for the launch of a website, manage it, connect it with the domain, and create a mail server for the environment.
                                     </div>
                                 </div>
                             </div>
@@ -289,7 +289,12 @@
                                     <i class="icon_tools id-color-2"></i>
                                     <div class="text">
                                         <h3>Development</h3>
-                                        Developing and creating systems as a service, linking them with other systems, developing programs such as e-commerce, SMS and ticketing system etc
+                                        <p>
+                                            Web front-end and back-end development, System-as-a-Service (SAAS) development, interfacing with other systems through the API, software development such as e-commerce, School Management System, Ticketing System, etc.
+                                        </p>
+                                        <p>
+                                            Developing a Rest full APIs for the frontend developers (Mobile, web, and desktop), configuring the WebSocket server for real-time notifications or other types with the same purpose,and handling a caching system to improve the performance of the system.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -300,7 +305,7 @@
                                     <i class="icon_target id-color-2"></i>
                                     <div class="text">
                                         <h3>Analysis</h3>
-                                        Requirements analysis and creation the data flow diagram
+                                        Manage and enhances computer and software systems directly for organizations or their clients. and review and assess how effective a company's current IT system is and build plans to improve any of the system's shortcomings or errors. Once I understand and identify which improvements to make, I can draft the new requirements and updates for the systems. I help implement these enhancements and may continue monitoring their performance to potentially add any extra features.
                                     </div>
                                 </div>
                             </div>
@@ -377,7 +382,7 @@
                         <div class="de_modal" data-url="single-project.html">
                             <div class="card-image-1 mod-c" data-tilt>
                                 <div class="d-text">
-                                    <h3>Bolg Sytem</h3>
+                                    <h3>Bolg System</h3>
                                     <h5 class="d-tag">website</h5>
                                 </div>
                                 <img src="{{asset('frontend/images/gallery/6.jpg')}}" class="img-fluid" alt="">
@@ -405,7 +410,7 @@
                                     <p class="d_timeline-text">
                                         <span class="d_title">Technical Consulting &amp; Web Developer</span>
                                         <span class="d_company">TheTKH</span>
-                                        Developing and analyzing websites for clients
+                                        Developing and analyzing the website for the customers and providing them with suggestions to improve the work environment in line with their business.
                                     </p>
                                 </li>
                                 <li class="d_timeline-item">
@@ -413,7 +418,7 @@
                                     <p class="d_timeline-text">
                                         <span class="d_title">Web Developer</span>
                                         <span class="d_company">Potato Media</span>
-                                        Creating websites based on the requirements provided by the client to the company, managing, monitoring and improving servers
+                                        Developing programs and websites according to the requirements provided by the client to the company managing, monitoring and improving servers
                                     </p>
                                 </li>
                                 <li class="d_timeline-item">
@@ -421,15 +426,15 @@
                                     <p class="d_timeline-text">
                                         <span class="d_title">System Development Officer</span>
                                         <span class="d_company">Extensya</span>
-                                        Develop systems according to requirements
+                                        Developing programs and websites according to the requirements of the company's need.
                                     </p>
                                 </li>
                                 <li class="d_timeline-item">
-                                    <h3 class="d_timeline-title">2002-5 - Present</h3>
+                                    <h3 class="d_timeline-title">2022-5 - Present</h3>
                                     <p class="d_timeline-text">
                                         <span class="d_title">Senior System Development Officer</span>
                                         <span class="d_company">Extensya</span>
-                                        Developing systems according to requirements, solving the issues, linking with external systems throw the API , like Facebook Instagram, Twitter , Whatsapp and Email, etc.., and developing an API
+                                        Developing systems according to requirements, solving issues, and linking our systems with a third-party system through an API such as Facebook Instagram, Twitter, Whatsapp, email, etc., developing APIs, managing and directing the team to improve the work environment.
                                     </p>
                                 </li>
                             </ul>
@@ -442,7 +447,7 @@
                                 <li class="d_timeline-item">
                                     <h3 class="d_timeline-title">2015 - 2016</h3>
                                     <p class="d_timeline-text"><span class="d_title">High School </span><span
-                                            class="d_company">Swileh School</span></p>
+                                            class="d_company">Amman Sweileh School</span></p>
                                 </li>
                                 <li class="d_timeline-item">
                                     <h3 class="d_timeline-title">2017 - 2021</h3>
@@ -463,7 +468,7 @@
                 <div class="row">
                     <div class="col-md-3 wow fadeIn" data-wow-delay="0">
                         <div class="de_count text-center">
-                            <h3 class="timer" data-to="8240" data-speed="2500">0</h3>
+                            <h3 class="timer" data-to="3140" data-speed="2500">0</h3>
                             <span>Hours of Works</span>
                         </div>
                     </div>
@@ -477,7 +482,7 @@
 
                     <div class="col-md-3 wow fadeIn" data-wow-delay=".5s">
                         <div class="de_count text-center">
-                            <h3 class="timer" data-to="5" data-speed="2500">0</h3>
+                            <h3 class="timer" data-to="4" data-speed="2500">0</h3>
                             <span>Satisfied Customers</span>
                         </div>
                     </div>
@@ -509,10 +514,11 @@
                                 </div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">How to Make SAAS
+                                <h4 class="de_modal" data-url="single-blog.html">How SAAS works
                                 </h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <p>soon..</p>
+{{--                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim--}}
+{{--                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>--}}
                             </div>
                         </div>
                     </div>
@@ -523,10 +529,11 @@
                                                                                        src="{{asset('frontend/images/blog/2.jpg')}}" class="lazy grayscale"></div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">What the meaning of websockets
+                                <h4 class="de_modal" data-url="single-blog.html">What does websocket mean
                                 </h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <p>soon..</p>
+{{--                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim--}}
+{{--                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>--}}
                             </div>
                         </div>
                     </div>
@@ -537,9 +544,10 @@
                                                                                        src="{{asset('frontend/images/blog/3.jpg')}}" class="lazy grayscale"></div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">What the meaning of caching</h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <h4 class="de_modal" data-url="single-blog.html">What does caching mean?</h4>
+                                <p>soon..</p>
+{{--                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim--}}
+{{--                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>--}}
                             </div>
                         </div>
                     </div>
@@ -550,10 +558,11 @@
                                     <img alt="" src="{{asset('frontend/images/blog/4.jpg')}}" class="lazy grayscale"></div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">How To Make Mail Server
+                                <h4 class="de_modal" data-url="single-blog.html">How does a mail server work?
                                 </h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <p>soon..</p>
+{{--                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim--}}
+{{--                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>--}}
                             </div>
                         </div>
                     </div>
@@ -564,9 +573,8 @@
                                                                                        src="{{asset('frontend/images/blog/5.jpg')}}" class="lazy grayscale"></div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">What is MVC</h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <h4 class="de_modal" data-url="single-blog.html">What is MVC?</h4>
+                                <p>soon..</p>
                             </div>
                         </div>
                     </div>
@@ -577,10 +585,9 @@
                                                                                        src="{{asset('frontend/images/blog/6.jpg')}}" class="lazy grayscale"></div>
                             </div>
                             <div class="post-text">
-                                <h4 class="de_modal" data-url="single-blog.html">Tips for Web Perfomance<span></span>
+                                <h4 class="de_modal" data-url="single-blog.html">Web Performance Tips<span></span>
                                 </h4>
-                                <p>Dolore officia sint incididunt non excepteur ea mollit commodo ut enim
-                                    reprehenderit cupidatat labore ad laborum consectetur consequat...</p>
+                                <p>soon..</p>
                             </div>
                         </div>
                     </div>
