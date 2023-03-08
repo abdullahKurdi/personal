@@ -605,7 +605,7 @@
                     </div>
                     <div class="col-lg-8 offset-lg-2 wow fadeInUp">
                         <div class="contact_form_wrapper">
-                            <form name="contactForm" id="contact_form" class="form-border" method="post" action="#">
+                            <form name="contactForm" id="contact_form" class="form-border" >
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="field-set">
