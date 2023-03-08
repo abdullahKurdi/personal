@@ -32,7 +32,7 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img alt="" class="logo" src="{{asset('frontend/images/akk.png')}}"
                                              style="width: 94px;" />
                                         <img alt="" class="logo-2" src="{{asset('frontend/images/akk.png')}}"
