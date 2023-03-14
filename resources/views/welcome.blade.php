@@ -98,7 +98,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-12">
-                            <h6 class="wow fadeInUp" data-wow-delay=".4s"><span class="id-color-2">I Am Abdullah
+                            <h6 class="wow fadeInUp" data-wow-delay=".4s"><span class="id-color-2">I'm Abdullah
                                         Al-kurdi</span></h6>
                             <div class="spacer-10"></div>
                             <div class="h1_big text-white wow fadeInUp" data-wow-delay=".6s">
